@@ -30,6 +30,3 @@ Traditional sentiment models look only at what customers wrote. This project goe
 | `Project2_Model.ipynb` | Main notebook — data loading, preprocessing, model training, and evaluation |
 | `Sample_Review_Data.csv` | Sample review dataset used for training/testing |
 | `Advertising_Data.csv` | Supplementary advertising/brand metric data |
-
-
-[Watch the walkthrough video](#) *(replace with your uploaded video link)*
